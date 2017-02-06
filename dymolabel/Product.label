@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DieCutLabel Version="8.0" Units="twips">
+	<PaperOrientation>Landscape</PaperOrientation>
+	<Id>LargeAddress</Id>
+	<PaperName>30321 Large Address</PaperName>
+	<DrawCommands>
+		<RoundRectangle X="0" Y="0" Width="2025" Height="5020" Rx="270" Ry="270" />
+	</DrawCommands>
+	<ObjectInfo>
+		<BarcodeObject>
+			<Name>Codebarre</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName></LinkedObjectName>
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>True</IsVariable>
+			<Text>012345678901</Text>
+			<Type>Ean13</Type>
+			<Size>Large</Size>
+			<TextPosition>Bottom</TextPosition>
+			<TextFont Family="Arial" Size="8" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+			<CheckSumFont Family="Arial" Size="8" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+			<TextEmbedding>Full</TextEmbedding>
+			<ECLevel>0</ECLevel>
+			<HorizontalAlignment>Center</HorizontalAlignment>
+			<QuietZonesPadding Left="0" Top="0" Right="0" Bottom="0" />
+		</BarcodeObject>
+		<Bounds X="322" Y="150" Width="4439.3829787234" Height="862.978723404255" />
+	</ObjectInfo>
+	<ObjectInfo>
+		<TextObject>
+			<Name>Reference</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName></LinkedObjectName>
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>False</IsVariable>
+			<HorizontalAlignment>Left</HorizontalAlignment>
+			<VerticalAlignment>Top</VerticalAlignment>
+			<TextFitMode>ShrinkToFit</TextFitMode>
+			<UseFullFontHeight>True</UseFullFontHeight>
+			<Verticalized>False</Verticalized>
+			<StyledText>
+				<Element>
+					<String>Référence</String>
+					<Attributes>
+						<Font Family="Arial" Size="12" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+					</Attributes>
+				</Element>
+			</StyledText>
+		</TextObject>
+		<Bounds X="322" Y="1170.63829787234" Width="4408.74468085106" Height="219.574468085106" />
+	</ObjectInfo>
+	<ObjectInfo>
+		<TextObject>
+			<Name>Libelle</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName></LinkedObjectName>
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>False</IsVariable>
+			<HorizontalAlignment>Left</HorizontalAlignment>
+			<VerticalAlignment>Top</VerticalAlignment>
+			<TextFitMode>ShrinkToFit</TextFitMode>
+			<UseFullFontHeight>True</UseFullFontHeight>
+			<Verticalized>False</Verticalized>
+			<StyledText>
+				<Element>
+					<String>Libellé</String>
+					<Attributes>
+						<Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+					</Attributes>
+				</Element>
+			</StyledText>
+		</TextObject>
+		<Bounds X="322" Y="1638.72340425532" Width="4370.76595744681" Height="301.27659574468" />
+	</ObjectInfo>
+</DieCutLabel>

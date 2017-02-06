@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DieCutLabel Version="8.0" Units="twips">
+    <PaperOrientation>Landscape</PaperOrientation>
+    <Id>Address</Id>
+    <PaperName>30252 Address</PaperName>
+    <DrawCommands>
+        <RoundRectangle X="0" Y="0" Width="1581" Height="5040" Rx="270" Ry="270" />
+    </DrawCommands>
+    <ObjectInfo>
+        <TextObject>
+            <Name>Text</Name>
+            <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+            <BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+            <LinkedObjectName></LinkedObjectName>
+            <Rotation>Rotation0</Rotation>
+            <IsMirrored>False</IsMirrored>
+            <IsVariable>False</IsVariable>
+            <HorizontalAlignment>Left</HorizontalAlignment>
+            <VerticalAlignment>Middle</VerticalAlignment>
+            <TextFitMode>AlwaysFit</TextFitMode>
+            <UseFullFontHeight>True</UseFullFontHeight>
+            <Verticalized>False</Verticalized>
+            <StyledText />
+        </TextObject>
+        <Bounds X="331" Y="57.9999999999999" Width="4622" Height="1435" />
+    </ObjectInfo>
+</DieCutLabel>
